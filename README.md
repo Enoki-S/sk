@@ -1,6 +1,7 @@
 # sk
 
 # mkdir name
+# cd name
 # git clone https://github.com/Shin-ichi-Minato/SAPPOROBDD
 # git clone https://github.com/junkawahara/sbdd_helper
 # git clone https://github.com/nttcslab-alg/d3x
