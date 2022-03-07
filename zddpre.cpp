@@ -87,7 +87,7 @@ int main(int argc, char** argv)
     return 0;
   }
   endpre = std::chrono::system_clock::now();
-  for(i = 1,j = last_itm - 1 ; i != j && i < j; i = i + 1, j = j - 1){
+  for(i = 1,j = - 1 ; i != j && i < j; i = i + 1, j = j - 1){//不要なコード?
     z = z.Swap(i,j);
   }
   sbddh::ElementIteratorHolder eih(z);
