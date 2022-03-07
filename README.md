@@ -10,6 +10,6 @@
 # cd sk
 # 以下を実行
 # g++ -DB_64 -I../include/ ../lib/BDD64.a zddtoknuth.cpp -o first
+# ./first <../../d3x/data/zddfilename
 # g++ -DB_64 -I../include/ ../lib/BDD64.a zddpre.cpp -o second
-# ./first <data/zddfile
 # ./second | sort -r -n -k 2 | sort -r -n -k 1
