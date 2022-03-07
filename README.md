@@ -1,5 +1,6 @@
 # 厳密被覆問題におけるZDDに対する前処理
 以下を実行
+
 mkdir name
 cd name
 git clone https://github.com/Shin-ichi-Minato/SAPPOROBDD
